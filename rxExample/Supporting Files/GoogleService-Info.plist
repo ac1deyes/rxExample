@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>707796034788-6ptgtjal4a2e2tmrtnpcsn3dor53sgur.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.707796034788-6ptgtjal4a2e2tmrtnpcsn3dor53sgur</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBHu9U4o-cZex-g8TZ4FloHbBYTsPj37yI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>707796034788</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>VladislavNegoda.rxExample</string>
+	<key>PROJECT_ID</key>
+	<string>rxexample-9ac59</string>
+	<key>STORAGE_BUCKET</key>
+	<string>rxexample-9ac59.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:707796034788:ios:0b2e15ec5c31921408b8f1</string>
+	<key>DATABASE_URL</key>
+	<string>https://rxexample-9ac59.firebaseio.com</string>
+</dict>
+</plist>
